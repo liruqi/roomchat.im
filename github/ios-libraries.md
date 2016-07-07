@@ -3564,419 +3564,192 @@ Github iOS Libraries and Frameworks
 [较完整的App]
 
 <table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/ResearchKit/ResearchKit">ResearchKit</a></td>
 <td>苹果官方开源的医疗相关的库,其中有基于它制作的4款独立App,文档完整,支持appledoc</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/sprang/Brushes">Brushes</a></td>
 <td>绘画的App,超棒,Appstore上架应用</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/sprang/Inkpad">Inkpad</a></td>
 <td>一个完整的矢量绘图App，很棒，已上架</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/wikimedia/apps-ios-wikipedia">apps-ios-wikipedia</a></td>
 <td>维基百科官方App, 已上架</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/viewfinderco/viewfinder">viewfinder</a></td>
 <td>Square开源了完整的viewfinder源码，包括服务端和客户端(iOS/Android) 赞！</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/yoyofr/modizer">modizer</a></td>
 <td>很强大的App 可以读取和演奏各种mod音乐 midi合成 解压 下载 自带庞大音乐库~ 已上架</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/jessegrosjean/NOTTaskPaperForIOS">NOTTaskPaperForIOS</a></td>
 <td>TaskPaper源码~</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/graphsketcher/GraphSketcher">GraphSketcher</a></td>
 <td>以OmniGroup为基础，做的类似OneNote的工具，支持Mac和iPad</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/comyarzaheri/Sol">Sol</a></td>
 <td>漂亮的扁平风格的天气 App</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/Aufree/ESTMusicPlayer">ESTMusicPlayer</a></td>
 <td>一个界面不错的音乐播放器 App</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/chrisballinger/ChatSecure-iOS">ChatSecure-iOS</a></td>
 <td>一个XMPP客户端～ 支持Jabber/GTalk等XMPP协议</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/gaosboy/iOSSF">iOSSF</a></td>
 <td>SegmentFault官方App ...</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/guojiubo/PlainReader">PlainReader</a></td>
 <td>CnBeta简阅,简洁好用的CB客户端,曾上架AppStore但因版权问题被下了</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/dennisreimann/ioctocat">ioctocat</a></td>
 <td>一个Github客户端</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/HouseTrip/trailer">trailer</a></td>
 <td>保持Github在线～ 包括iOS/OSX客户端</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/scotteg/LayerPlayer">LayerPlayer</a></td>
 <td>一个用来展示CoreAnimation功能的App，已上架AppStore</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/artsy/eigen">eigen</a></td>
 <td>浏览世界上的艺术名作, 已上架AppStore</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/chroman/Doppio">Doppio</a></td>
 <td>寻找最近的星巴克</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/nothingmagical/cheddar-ios">cheddar-ios</a></td>
 <td>一个日程管理的App 应该比较知名</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/nixzhu/Bible-Assistant">Bible-Assistant</a></td>
 <td>圣经小助手，已上架</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/omz/AppSales-Mobile">AppSales-Mobile</a></td>
 <td>基于iTunes Connect来查看App销售状况</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/ericjohnson/canabalt-ios">canabalt-ios</a></td>
 <td>一个跑步的小游戏～</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/Simbul/baker">baker</a></td>
 <td>一套HTML5构建的ebook库 貌似挺强大</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/petewarden/iPhoneTracker">iPhoneTracker</a></td>
 <td>一个挺老的App 2年前</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/chrisballinger/Off-the-Record-iOS">Off-the-Record-iOS</a></td>
 <td>一个实时聊天的功能 支持一些XMPP协议</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/u-mizo/kokuban">kokuban</a></td>
 <td>一个iPad小画板 3年前</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/nskboy/glpaint">glpaint</a></td>
 <td>从Appled的GLPaint改的</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/hannorein/OpenGLMilkyWay">OpenGLMilkyWay</a></td>
 <td>银河～～ 很棒 有教材</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/oschina/iphone-app">iphone-app</a></td>
 <td>OSChina 开源中国 ..竟然挪到git.oschina.net去了。。</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/BeeFramework/BeeFancy">BeeFancy</a></td>
 <td>一个仿Fancy的客户端 基于BeeFranework</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/ruby-china/ruby-china-for-ios">ruby-china-for-ios</a></td>
 <td>RubyChina官方客户端</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/daveliu/ruby-china-ios">ruby-china-ios</a></td>
 <td>和上面一样?</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/WhiteHouse/wh-app-ios">wh-app-ios</a></td>
 <td>白宫官方App</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/bryceredd/CastleHassle">CastleHassle</a></td>
 <td>一个Cocos2D的物理小游戏 貌似内容挺丰富～</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/omz/DocSets-for-iOS">DocSets-for-iOS</a></td>
 <td>iOS显示DocSets 可以下载iOS官方Doc~</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/Xuzz/newsyc">newsyc</a></td>
 <td>一个newsyc.me的客户端 (iPhone hacker News)</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/TeehanLax/Upcoming">Upcoming</a></td>
 <td>一个设计很棒的日程安排</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/ParsePlatform/Anypic">Anypic</a></td>
 <td>一个像Instagram那样的图片分享社区App</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/kishikawakatsumi/ClassicMap">ClassicMap</a></td>
 <td>旧版iOS地图</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/takuma104/ntlniph">ntlniph</a></td>
 <td>Twitter客户端 古老的工程了</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/c99koder/lastfm-iphone">lastfm-iphone</a></td>
 <td>Last.fm官方客户端</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/fggeraissate/FFCalendar">FFCalendar</a></td>
 <td>iPad日历，类似iOS7的日历。有些粗糙</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/Ink/ThatInbox">ThatInbox</a></td>
 <td>Ink出的邮件客户端</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/Ink/ThatCloud">ThatCloud</a></td>
 <td>Ink出的云端文件管理</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/Ink/ThatPDF">ThatPDF</a></td>
 <td>Ink出的PDF编辑</td>
 </tr>
-</tbody>
-</table>
-
-<table style="width:306%;">
-<tbody>
-<tr class="odd">
+<tr>
 <td><a href="https://github.com/Ink/ThatPhoto">ThatPhoto</a></td>
 <td>Ink出的图片编辑</td>
 </tr>
 </tbody>
 </table>
-
 [开发/调试/统计]
 
 <table style="width:306%;">
