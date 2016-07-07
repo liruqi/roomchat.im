@@ -3567,7 +3567,7 @@ Github iOS Libraries and Frameworks
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ResearchKit/ResearchKit">ResearchKit</a></td>
-<td>苹果官方开源的医疗相关的库,其中有基于它制作的4款独立App,文档完整,支持appledoc,有非常好的参考价值</td>
+<td>苹果官方开源的医疗相关的库,其中有基于它制作的4款独立App,文档完整,支持appledoc</td>
 </tr>
 </tbody>
 </table>
