@@ -1,10 +1,10 @@
-Github iOS Libraries and Frameworks
+# Github iOS Libraries and Frameworks
 
-[系统基础库]
+## 系统基础库
 
-[Category/Util]
+### Category/Util
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/soffes/sstoolkit">sstoolkit</a></td>
@@ -205,9 +205,9 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-[基础功能]
+### 基础功能
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/panzi/mediaextract">mediaextract</a></td>
@@ -328,9 +328,9 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-[框架/封装]
+### 框架/封装
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/facebookarchive/three20">three20</a></td>
@@ -431,9 +431,9 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-[功能/封装]
+### 功能/封装
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Shmoopi/iOS-System-Services">iOS-System-Services</a></td>
@@ -574,11 +574,11 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-[网络]
+## 网络
 
-[基础]
+### 基础
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/AFNetworking/AFNetworking">AFNetworking</a></td>
@@ -677,7 +677,7 @@ Github iOS Libraries and Frameworks
 
 [JSON]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/johnezang/JSONKit">JSONKit</a></td>
@@ -712,7 +712,7 @@ Github iOS Libraries and Frameworks
 
 [XML/Html]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mwaterfall/MWFeedParser">MWFeedParser</a></td>
@@ -783,7 +783,7 @@ Github iOS Libraries and Frameworks
 
 [功能性]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/rs/SDWebImage">SDWebImage</a></td>
@@ -850,7 +850,7 @@ Github iOS Libraries and Frameworks
 
 [SDK]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/comyarzaheri/CZWeatherKit">CZWeatherKit</a></td>
@@ -905,7 +905,7 @@ Github iOS Libraries and Frameworks
 
 [音频]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/audiokit/AudioKit">AudioKit</a></td>
@@ -914,7 +914,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/syedhali/EZAudio">EZAudio</a></td>
@@ -923,7 +923,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine">TheAmazingAudioEngine</a></td>
@@ -932,7 +932,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mattgallagher/AudioStreamer">AudioStreamer</a></td>
@@ -941,7 +941,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/akinLiu/SimpleAudioEngine">SimpleAudioEngine</a></td>
@@ -950,7 +950,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/douban/DOUAudioStreamer">DOUAudioStreamer</a></td>
@@ -959,7 +959,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/tumtumtum/StreamingKit">StreamingKit</a></td>
@@ -968,7 +968,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/TUNER88/iOSSystemSoundsLibrary">iOSSystemSoundsLibrary</a></td>
@@ -977,7 +977,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/alexbw/novocaine">novocaine</a></td>
@@ -986,7 +986,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/tkzic/audiograph">audiograph</a></td>
@@ -995,7 +995,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/genedelisa/MIDIFileSequence">MIDIFileSequence</a></td>
@@ -1004,7 +1004,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/bartolsthoorn/NVDSP">NVDSP</a></td>
@@ -1013,7 +1013,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/lucaas/Blip-Synth">Blip-Synth</a></td>
@@ -1022,7 +1022,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/petegoodliffe/PGMidi">PGMidi</a></td>
@@ -1031,7 +1031,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/stephencelis/sc_listener">sc_listener</a></td>
@@ -1040,7 +1040,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kstenerud/ObjectAL-for-iPhone">ObjectAL-for-iPhone</a></td>
@@ -1049,7 +1049,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/hollance/SoundBankPlayer">SoundBankPlayer</a></td>
@@ -1058,7 +1058,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/zoul/Finch">Finch</a></td>
@@ -1067,7 +1067,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/nicklockwood/SoundManager">SoundManager</a></td>
@@ -1076,7 +1076,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ap4y/OrigamiEngine">OrigamiEngine</a></td>
@@ -1085,7 +1085,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/libpd/libpd">libpd</a></td>
@@ -1094,7 +1094,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/libpd/pd-for-ios">pd-for-ios</a></td>
@@ -1103,7 +1103,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/recotana/RCTMidiLib">RCTMidiLib</a></td>
@@ -1112,7 +1112,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/scopegate/octave">octave</a></td>
@@ -1121,7 +1121,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Rich2k/RBDMuteSwitch">RBDMuteSwitch</a></td>
@@ -1130,7 +1130,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/raboof/sfArkLib">sfArkLib</a></td>
@@ -1139,7 +1139,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/raboof/sfarkxtc">sfarkxtc</a></td>
@@ -1148,7 +1148,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/raboof/unsfark">unsfark</a></td>
@@ -1157,7 +1157,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/musescore/MuseScore">MuseScore</a></td>
@@ -1166,7 +1166,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/WhiteNoise/OpenSFZ">OpenSFZ</a></td>
@@ -1175,7 +1175,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/alsaplayer/alsaplayer">alsaplayer</a></td>
@@ -1186,7 +1186,7 @@ Github iOS Libraries and Frameworks
 
 [游戏]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/cocos2d/cocos2d-iphone">cocos2d-iphone</a></td>
@@ -1195,7 +1195,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/cocos2d/cocos2d-iphone-extensions">cocos2d-iphone-extensions</a></td>
@@ -1204,7 +1204,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/krzysztofzablocki/smooth-drawing">smooth-drawing</a></td>
@@ -1213,7 +1213,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/haqu/tiny-wings">tiny-wings</a></td>
@@ -1222,7 +1222,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/diwu/Tiny-Wings-Remake-on-Android">Tiny-Wings-Remake-on-Android</a></td>
@@ -1231,7 +1231,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/haqu/tweejump">tweejump</a></td>
@@ -1240,7 +1240,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/seanhess/wizardwar">wizardwar</a></td>
@@ -1249,7 +1249,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/PrimaryFeather/Sparrow-Framework">Sparrow-Framework</a></td>
@@ -1258,7 +1258,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Gamua/Sparrow-Framework">Sparrow-Framework</a></td>
@@ -1271,7 +1271,7 @@ Github iOS Libraries and Frameworks
 
 [视频/OpenGL]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Bilibili/ijkplayer">ijkplayer</a></td>
@@ -1354,7 +1354,7 @@ Github iOS Libraries and Frameworks
 
 [图像显示/解析]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/contentful-labs/Concorde">Concorde</a></td>
@@ -1421,7 +1421,7 @@ Github iOS Libraries and Frameworks
 
 [图像处理]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Nyx0uf/NYXImagesKit">NYXImagesKit</a></td>
@@ -1592,7 +1592,7 @@ Github iOS Libraries and Frameworks
 
 [颜色]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kballard/uicolor-utilities">uicolor-utilities</a></td>
@@ -1679,7 +1679,7 @@ Github iOS Libraries and Frameworks
 
 [绘图库]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/honcheng/iOSPlot">iOSPlot</a></td>
@@ -1768,7 +1768,7 @@ Github iOS Libraries and Frameworks
 
 [CA]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/DenHeadless/Shapes">Shapes</a></td>
@@ -1815,7 +1815,7 @@ Github iOS Libraries and Frameworks
 
 [动画曲线]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/facebook/pop">pop</a></td>
@@ -1894,7 +1894,7 @@ Github iOS Libraries and Frameworks
 
 [常见动画]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Ciechan/BCGenieEffect">BCGenieEffect</a></td>
@@ -2027,7 +2027,7 @@ Github iOS Libraries and Frameworks
 
 [HUD]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jdg/MBProgressHUD">MBProgressHUD</a></td>
@@ -2062,7 +2062,7 @@ Github iOS Libraries and Frameworks
 
 [Slider]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jasonmorrissey/JMSlider">JMSlider</a></td>
@@ -2125,7 +2125,7 @@ Github iOS Libraries and Frameworks
 
 [Progress]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mperovic/KOAProgressBar">KOAProgressBar</a></td>
@@ -2180,7 +2180,7 @@ Github iOS Libraries and Frameworks
 
 [StatusBar]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jaydee3/JDStatusBarNotification">JDStatusBarNotification</a></td>
@@ -2203,7 +2203,7 @@ Github iOS Libraries and Frameworks
 
 [Alert]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets">BlockAlertsAnd-ActionSheets</a></td>
@@ -2282,7 +2282,7 @@ Github iOS Libraries and Frameworks
 
 [Notification]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/cruffenach/CRToast">CRToast</a></td>
@@ -2321,7 +2321,7 @@ Github iOS Libraries and Frameworks
 
 [Segment]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/nealyoung/NYSegmentedControl">NYSegmentedControl</a></td>
@@ -2364,7 +2364,7 @@ Github iOS Libraries and Frameworks
 
 [Switch]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/domesticcatsoftware/DCRoundSwitch">DCRoundSwitch</a></td>
@@ -2391,7 +2391,7 @@ Github iOS Libraries and Frameworks
 
 [Button]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jessmartin/CoolButtons">CoolButtons</a></td>
@@ -2442,7 +2442,7 @@ Github iOS Libraries and Frameworks
 
 [Label/Text/排版]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/cbpowell/MarqueeLabel">MarqueeLabel</a></td>
@@ -2561,7 +2561,7 @@ Github iOS Libraries and Frameworks
 
 [PullToRefresh]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/uzysjung/UzysAnimatedGifPullToRefresh">UzysAnimatedGifPullToRefresh</a></td>
@@ -2608,7 +2608,7 @@ Github iOS Libraries and Frameworks
 
 [Scroll/Table]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/lukeredpath/LRSlidingTableViewCell">LRSlidingTableViewCell</a></td>
@@ -2699,7 +2699,7 @@ Github iOS Libraries and Frameworks
 
 [Popover]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/runway20/PopoverView">PopoverView</a></td>
@@ -2782,7 +2782,7 @@ Github iOS Libraries and Frameworks
 
 [GridView]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/AlanQuatermain/AQGridView">AQGridView</a></td>
@@ -2809,7 +2809,7 @@ Github iOS Libraries and Frameworks
 
 [界面切换/导航]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ltebean/LTNavigationBar">LTNavigationBar</a></td>
@@ -2932,7 +2932,7 @@ Github iOS Libraries and Frameworks
 
 [侧滑]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Inferis/ViewDeck">ViewDeck</a></td>
@@ -3003,7 +3003,7 @@ Github iOS Libraries and Frameworks
 
 [知名效果Demo]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/KieranLafferty/KLNoteViewController">KLNoteViewController</a></td>
@@ -3106,7 +3106,7 @@ Github iOS Libraries and Frameworks
 
 [高级功能]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mapbox/mapbox-gl-native">mapbox-gl-native</a></td>
@@ -3269,7 +3269,7 @@ Github iOS Libraries and Frameworks
 
 [套装]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/devinross/tapkulibrary">tapkulibrary</a></td>
@@ -3320,7 +3320,7 @@ Github iOS Libraries and Frameworks
 
 [其他]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Spaceman-Labs/SMPageControl">SMPageControl</a></td>
@@ -3563,7 +3563,7 @@ Github iOS Libraries and Frameworks
 
 [较完整的App]
 
-<table style="width:306%;">
+<table>
 <tr>
 <td><a href="https://github.com/ResearchKit/ResearchKit">ResearchKit</a></td>
 <td>苹果官方开源的医疗相关的库,其中有基于它制作的4款独立App,文档完整,支持appledoc</td>
@@ -3752,7 +3752,7 @@ Github iOS Libraries and Frameworks
 </table>
 [开发/调试/统计]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/facebook/xctool">xctool</a></td>
@@ -3761,7 +3761,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/facebook/origami">origami</a></td>
@@ -3770,7 +3770,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/facebook/Tweaks">Tweaks</a></td>
@@ -3779,7 +3779,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/facebook/ios-snapshot-test-case">ios-snapshot-test-case</a></td>
@@ -3788,7 +3788,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/facebook/chisel">chisel</a></td>
@@ -3797,7 +3797,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/plausiblelabs/plcrashreporter">plcrashreporter</a></td>
@@ -3806,7 +3806,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/TheRealKerni/QuincyKit">QuincyKit</a></td>
@@ -3815,7 +3815,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/marcoarment/BugshotKit">BugshotKit</a></td>
@@ -3824,7 +3824,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/square/PonyDebugger">PonyDebugger</a></td>
@@ -3833,7 +3833,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/fpillet/NSLogger">NSLogger</a></td>
@@ -3842,7 +3842,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kif-framework/KIF">KIF</a></td>
@@ -3851,7 +3851,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/gabriel/gh-unit">gh-unit</a></td>
@@ -3860,7 +3860,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Naituw/WBWebViewConsole">WBWebViewConsole</a></td>
@@ -3869,7 +3869,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/acoomans/SimulatorRemoteNotifications">SimulatorRemoteNotifications</a></td>
@@ -3878,7 +3878,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Flipboard/FLEX">FLEX</a></td>
@@ -3887,7 +3887,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/domesticcatsoftware/DCIntrospect">DCIntrospect</a></td>
@@ -3896,7 +3896,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/CocoaLumberjack/CocoaLumberjack">CocoaLumberjack</a></td>
@@ -3905,7 +3905,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/一个调试用Log工具,支持分级/UALogger">UALogger</a></td>
@@ -3914,7 +3914,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/iOS%20代码混淆工具/ios-class-guard">ios-class-guard</a></td>
@@ -3923,7 +3923,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/class%20dump%20嗯。。/class-dump">class-dump</a></td>
@@ -3932,7 +3932,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/orta/ARAnalytics">ARAnalytics</a></td>
@@ -3941,7 +3941,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mattt/SkyLab">SkyLab</a></td>
@@ -3950,7 +3950,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/tapwork/HeapInspector-for-iOS">HeapInspector-for-iOS</a></td>
@@ -3959,7 +3959,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/heardrwt/RHObjectiveBeagle">RHObjectiveBeagle</a></td>
@@ -3968,7 +3968,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/johnno1962/Xtrace">Xtrace</a></td>
@@ -3977,7 +3977,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/moredip/Frank">Frank</a></td>
@@ -3986,7 +3986,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/answer-huang/dSYMTools">dSYMTools</a></td>
@@ -3995,7 +3995,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Quotation/umeng-crash-symbol">umeng-crash-symbol</a></td>
@@ -4004,7 +4004,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Shopify/superdb">superdb</a></td>
@@ -4013,7 +4013,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/glock45/iOS-Hierarchy-Viewer">iOS-Hierarchy-Viewer</a></td>
@@ -4022,7 +4022,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/chinmaygarde/hierarchydetective">hierarchydetective</a></td>
@@ -4031,7 +4031,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/honcheng/CATransform3D-Test">CATransform3D-Test</a></td>
@@ -4040,7 +4040,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ryanolsonk/LLDB-QuickLook">LLDB-QuickLook</a></td>
@@ -4049,7 +4049,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/nicklockwood/iConsole">iConsole</a></td>
@@ -4058,7 +4058,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/luisobo/Nocilla">Nocilla</a></td>
@@ -4067,7 +4067,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/DyCI/dyci-main">dyci-main</a></td>
@@ -4076,7 +4076,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/markd2/GestureLab">GestureLab</a></td>
@@ -4085,7 +4085,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/pivotal/cedar">cedar</a></td>
@@ -4094,7 +4094,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/pixelfreak/iOS-UI-Assets">iOS-UI-Assets</a></td>
@@ -4103,7 +4103,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/0xced/iOS-Artwork-Extractor">iOS-Artwork-Extractor</a></td>
@@ -4114,7 +4114,7 @@ Github iOS Libraries and Frameworks
 
 [旧代码 & 奇怪的东西]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/rsms/peertalk">peertalk</a></td>
@@ -4123,7 +4123,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/quartermaster/DB5">DB5</a></td>
@@ -4132,7 +4132,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/TheRealKerni/HockeyKit">HockeyKit</a></td>
@@ -4141,7 +4141,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/capttaco/Briefs">Briefs</a></td>
@@ -4150,7 +4150,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/zk00006/OpenTLD">OpenTLD</a></td>
@@ -4159,7 +4159,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/atebits/SimFinger">SimFinger</a></td>
@@ -4168,7 +4168,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ldandersen/scifihifi-iphone">scifihifi-iphone</a></td>
@@ -4177,7 +4177,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/zac/iphonearkit">iphonearkit</a></td>
@@ -4186,7 +4186,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/couchbaselabs/TouchDB-iOS">TouchDB-iOS</a></td>
@@ -4195,7 +4195,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/nst/iOS-Runtime-Headers">iOS-Runtime-Headers</a></td>
@@ -4204,7 +4204,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/yfactorial/objectiveresource">objectiveresource</a></td>
@@ -4213,7 +4213,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/groue/GRMustache">GRMustache</a></td>
@@ -4222,7 +4222,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/appcelerator/titanium_modules">titanium_modules</a></td>
@@ -4231,7 +4231,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/lexrus/fontdiao">fontdiao</a></td>
@@ -4242,7 +4242,7 @@ Github iOS Libraries and Frameworks
 
 [代码库大包包]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/erica/iphone-3.0-cookbook-">iphone-3.0-cookbook-</a></td>
@@ -4251,7 +4251,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/erica/iOS-5-Cookbook">iOS-5-Cookbook</a></td>
@@ -4260,7 +4260,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/erica/iOS-6-Cookbook">iOS-6-Cookbook</a></td>
@@ -4268,7 +4268,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/erica/iOS-6-Advanced-Cookbook">iOS-6-Advanced-Cookbook</a></td>
@@ -4276,7 +4276,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mattneub/Programming-iOS-Book-Examples">Programming-iOS-Book-Examples</a></td>
@@ -4285,7 +4285,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ShinobiControls/iOS7-day-by-day">iOS7-day-by-day</a></td>
@@ -4294,7 +4294,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/shu223/iOS7-Sampler">iOS7-Sampler</a></td>
@@ -4303,7 +4303,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/chaozhao/MyProjects">MyProjects</a></td>
@@ -4312,7 +4312,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mattt/Xcode-Snippets">Xcode-Snippets</a></td>
@@ -4323,7 +4323,7 @@ Github iOS Libraries and Frameworks
 
 [Mac Only]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/pieter/gitx">gitx</a></td>
@@ -4332,7 +4332,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/BigZaphod/Chameleon">Chameleon</a></td>
@@ -4341,7 +4341,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Induction/Induction">Induction</a></td>
@@ -4350,7 +4350,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/twitter/twui">twui</a></td>
@@ -4359,7 +4359,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/rsms/kod">kod</a></td>
@@ -4368,7 +4368,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jigish/slate">slate</a></td>
@@ -4377,7 +4377,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/timburks/nu">nu</a></td>
@@ -4386,7 +4386,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/maccman/macgap">macgap</a></td>
@@ -4395,7 +4395,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/quicksilver/Quicksilver">Quicksilver</a></td>
@@ -4404,7 +4404,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/rentzsch/mogenerator">mogenerator</a></td>
@@ -4413,7 +4413,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/scrod/nv">nv</a></td>
@@ -4422,7 +4422,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/gnachman/iTerm2">iTerm2</a></td>
@@ -4431,7 +4431,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/andymatuschak/Sparkle">Sparkle</a></td>
@@ -4440,7 +4440,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/PostgresApp/PostgresApp">PostgresApp</a></td>
@@ -4449,7 +4449,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/alloy/terminal-notifier">terminal-notifier</a></td>
@@ -4458,7 +4458,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/fikovnik/ShiftIt">ShiftIt</a></td>
@@ -4467,7 +4467,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/textmate/textmate">textmate</a></td>
@@ -4476,7 +4476,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jezdez/textmate-missingdrawer">textmate-missingdrawer</a></td>
@@ -4485,7 +4485,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/protocool/AckMate">AckMate</a></td>
@@ -4494,7 +4494,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/rentzsch/clicktoflash">clicktoflash</a></td>
@@ -4503,7 +4503,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/bububa/MongoHub-Mac">MongoHub-Mac</a></td>
@@ -4512,7 +4512,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/cocos2d/CocosBuilder">CocosBuilder</a></td>
@@ -4521,7 +4521,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/github/Rebel">Rebel</a></td>
@@ -4530,7 +4530,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Codeux/Textual">Textual</a></td>
@@ -4539,7 +4539,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/vicoapp/vico">vico</a></td>
@@ -4548,7 +4548,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ugol/pomodoro">pomodoro</a></td>
@@ -4557,7 +4557,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/torsten/visor">visor</a></td>
@@ -4566,7 +4566,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ohdarling/GoAgentX">GoAgentX</a></td>
@@ -4575,7 +4575,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Pixen/Pixen">Pixen</a></td>
@@ -4584,7 +4584,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/oscardelben/Color-Picker-Pro">Color-Picker-Pro</a></td>
@@ -4593,7 +4593,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/indragiek/SNRHUDKit">SNRHUDKit</a></td>
@@ -4602,7 +4602,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/karelia/ConnectionKit">ConnectionKit</a></td>
@@ -4611,7 +4611,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/OpenEmu/OpenEmu">OpenEmu</a></td>
@@ -4620,7 +4620,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mpv-player/mpv">mpv</a></td>
@@ -4629,7 +4629,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/eliaskg/Hacky">Hacky</a></td>
@@ -4638,7 +4638,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/zadr/WWDCDownloader">WWDCDownloader</a></td>
@@ -4647,7 +4647,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/petetak/QuickCast">QuickCast</a></td>
@@ -4656,7 +4656,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/sdegutis/zephyros">zephyros</a></td>
@@ -4665,7 +4665,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/fitztrev/shuttle">shuttle</a></td>
@@ -4674,7 +4674,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/newmarcel/KeepingYouAwake">KeepingYouAwake</a></td>
@@ -4683,7 +4683,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/insidegui/WWDC">WWDC</a></td>
@@ -4692,7 +4692,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/whomwah/qlstephen">qlstephen</a></td>
@@ -4701,7 +4701,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/indragiek/INAppStoreWindow">INAppStoreWindow</a></td>
@@ -4710,7 +4710,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/eczarny/spectacle">spectacle</a></td>
@@ -4719,7 +4719,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/psychs/limechat">limechat</a></td>
@@ -4728,7 +4728,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/livereload/LiveReload">LiveReload</a></td>
@@ -4737,7 +4737,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/slambert/selfcontrol">selfcontrol</a></td>
@@ -4746,7 +4746,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/shpakovski/Popup">Popup</a></td>
@@ -4755,7 +4755,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/niltsh/MPlayerX">MPlayerX</a></td>
@@ -4764,7 +4764,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/QuickCursor/QuickCursor">QuickCursor</a></td>
@@ -4773,7 +4773,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jimbojsb/launchrocket">launchrocket</a></td>
@@ -4782,7 +4782,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/sonoramac/Sonora">Sonora</a></td>
@@ -4791,7 +4791,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kbhomes/google-music-mac.git">google-music-mac.git</a></td>
@@ -4800,7 +4800,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/rs/SafariOmnibar">SafariOmnibar</a></td>
@@ -4809,7 +4809,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ridiculousfish/HexFiend">HexFiend</a></td>
@@ -4818,7 +4818,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/uranusjr/macdown">macdown</a></td>
@@ -4827,7 +4827,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/atom/atom">atom</a></td>
@@ -4836,7 +4836,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/brunophilipe/Cakebrew">Cakebrew</a></td>
@@ -4845,7 +4845,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/sequelpro/sequelpro">sequelpro</a></td>
@@ -4854,7 +4854,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/DrawKit/DrawKit">DrawKit</a></td>
@@ -4863,7 +4863,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/orta/GIFs">GIFs</a></td>
@@ -4872,7 +4872,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/iSparta/iSparta">iSparta</a></td>
@@ -4881,7 +4881,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/krevis/MIDIApps">MIDIApps</a></td>
@@ -4892,7 +4892,7 @@ Github iOS Libraries and Frameworks
 
 [Xcode插件/开发工具]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/mneorr/Alcatraz">Alcatraz</a></td>
@@ -4901,7 +4901,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kolinkrewinkel/Polychromatic">Polychromatic</a></td>
@@ -4910,7 +4910,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/travisjeffery/ClangFormat-Xcode">ClangFormat-Xcode</a></td>
@@ -4919,7 +4919,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/benoitsan/BBUncrustifyPlugin-Xcode">BBUncrustifyPlugin-Xcode</a></td>
@@ -4928,7 +4928,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/holtwick/HOStringSense-for-Xcode">HOStringSense-for-Xcode</a></td>
@@ -4937,7 +4937,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/MakeZL/ZLGotoSandboxPlugin">ZLGotoSandboxPlugin</a></td>
@@ -4946,7 +4946,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kattrali/cocoapods-xcode-plugin">cocoapods-xcode-plugin</a></td>
@@ -4955,7 +4955,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ricobeck/KFCocoaPodsPlugin">KFCocoaPodsPlugin</a></td>
@@ -4964,7 +4964,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/chendo/FuzzyAutocompletePlugin">FuzzyAutocompletePlugin</a></td>
@@ -4973,7 +4973,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/pdcgomes/XCActionBar">XCActionBar</a></td>
@@ -4982,7 +4982,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/fortinmike/XcodeBoost">XcodeBoost</a></td>
@@ -4991,7 +4991,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/omz/Dash-Plugin-for-Xcode">Dash-Plugin-for-Xcode</a></td>
@@ -5000,7 +5000,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/onevcat/VVDocumenter-Xcode">VVDocumenter-Xcode</a></td>
@@ -5009,7 +5009,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/stefanceriu/SCXcodeSwitchExpander">SCXcodeSwitchExpander</a></td>
@@ -5018,7 +5018,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/omz/ColorSense-for-Xcode">ColorSense-for-Xcode</a></td>
@@ -5027,7 +5027,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ksuther/KSImageNamed-Xcode">KSImageNamed-Xcode</a></td>
@@ -5036,7 +5036,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/questbeat/Lin-Xcode5">Lin-Xcode5</a></td>
@@ -5045,7 +5045,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/trawor/XToDo">XToDo</a></td>
@@ -5054,7 +5054,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/macoscope/CodePilot">CodePilot</a></td>
@@ -5063,7 +5063,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/JugglerShu/XVim">XVim</a></td>
@@ -5072,7 +5072,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/keefo/CATweaker">CATweaker</a></td>
@@ -5081,7 +5081,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/simonwhitaker/tween-o-matic">tween-o-matic</a></td>
@@ -5090,7 +5090,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/akosma/nib2objc">nib2objc</a></td>
@@ -5099,7 +5099,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kstenerud/iOS-Universal-Framework">iOS-Universal-Framework</a></td>
@@ -5108,7 +5108,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/jverkoey/iOS-Framework">iOS-Framework</a></td>
@@ -5117,7 +5117,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kattrali/Xcode5-Plugin-Template">Xcode5-Plugin-Template</a></td>
@@ -5126,7 +5126,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/kattrali/Xcode4-Plugin-Template">Xcode4-Plugin-Template</a></td>
@@ -5135,7 +5135,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/appsquickly/XcodeEditor">XcodeEditor</a></td>
@@ -5144,7 +5144,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/icanzilb/UIEffectDesignerView">UIEffectDesignerView</a></td>
@@ -5153,7 +5153,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/stefanceriu/SCStringsUtility">SCStringsUtility</a></td>
@@ -5162,7 +5162,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ideo/avocado">avocado</a></td>
@@ -5171,7 +5171,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Ahmed-Ali/JSONExport">JSONExport</a></td>
@@ -5180,7 +5180,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Ahmed-Ali/acani">acani</a></td>
@@ -5189,7 +5189,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/tomaz/appledoc">appledoc</a></td>
@@ -5198,7 +5198,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/realm/jazzy">jazzy</a></td>
@@ -5207,7 +5207,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/CocoaPods/CocoaPods">CocoaPods</a></td>
@@ -5216,7 +5216,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Carthage/Carthage">Carthage</a></td>
@@ -5225,7 +5225,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/blommegard/APNS-Pusher">APNS-Pusher</a></td>
@@ -5238,7 +5238,7 @@ Github iOS Libraries and Frameworks
 
 [基础功能]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/pNre/ExSwift">ExSwift</a></td>
@@ -5305,7 +5305,7 @@ Github iOS Libraries and Frameworks
 
 [框架]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/ReactKit/ReactKit">ReactKit</a></td>
@@ -5340,7 +5340,7 @@ Github iOS Libraries and Frameworks
 
 [网络]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Alamofire/Alamofire">Alamofire</a></td>
@@ -5387,7 +5387,7 @@ Github iOS Libraries and Frameworks
 
 [动画]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/Draveness/DKChainableAnimationKit">DKChainableAnimationKit</a></td>
@@ -5402,7 +5402,7 @@ Github iOS Libraries and Frameworks
 
 [控件/UI]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/pkluz/PKHUD">PKHUD</a></td>
@@ -5525,7 +5525,7 @@ Github iOS Libraries and Frameworks
 
 [其他]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/emaloney/CleanroomLogger">CleanroomLogger</a></td>
@@ -5576,7 +5576,7 @@ Github iOS Libraries and Frameworks
 
 [App]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://github.com/acani/Chats">Chats</a></td>
@@ -5627,7 +5627,7 @@ Github iOS Libraries and Frameworks
 
 [非Github]
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/cooliris-toolkit/">cooliris-toolkit</a></td>
@@ -5636,7 +5636,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/core-plot/">core-plot</a></td>
@@ -5645,7 +5645,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/j2objc/">j2objc</a></td>
@@ -5654,7 +5654,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/theunarchiver/">theunarchiver</a></td>
@@ -5663,7 +5663,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/macfuse/">macfuse</a></td>
@@ -5672,7 +5672,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/google-toolbox-for-mac/">google-toolbox-for-mac</a></td>
@@ -5681,7 +5681,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/leveldb/">leveldb</a></td>
@@ -5690,7 +5690,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="http://regexkit.sourceforge.net/RegexKitLite/">RegexKitLite</a></td>
@@ -5699,7 +5699,7 @@ Github iOS Libraries and Frameworks
 </tbody>
 </table>
 
-<table style="width:306%;">
+<table>
 <tbody>
 <tr class="odd">
 <td><a href="https://code.google.com/p/ziparchive/">zipachive</a></td>
