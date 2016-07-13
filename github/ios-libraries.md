@@ -675,7 +675,7 @@
 </tbody>
 </table>
 
-[JSON]
+### JSON
 
 <table>
 <tbody>
@@ -710,7 +710,7 @@
 </tbody>
 </table>
 
-[XML/Html]
+### XML/Html
 
 <table>
 <tbody>
@@ -781,7 +781,7 @@
 </tbody>
 </table>
 
-[功能性]
+### 功能性
 
 <table>
 <tbody>
@@ -848,7 +848,7 @@
 </tbody>
 </table>
 
-[SDK]
+### SDK
 
 <table>
 <tbody>
@@ -903,7 +903,7 @@
 </tbody>
 </table>
 
-[音频]
+## 音频
 
 <table>
 <tbody>
@@ -1267,9 +1267,9 @@
 </tbody>
 </table>
 
-[图像]
+## 图像
 
-[视频/OpenGL]
+### 视频/OpenGL
 
 <table>
 <tbody>
@@ -1334,14 +1334,6 @@
 <td>显示3D地形图 用OpenGL</td>
 </tr>
 <tr class="even">
-<td><a href="https://github.com/sonsongithub/CoreAR">CoreAR</a></td>
-<td>一个挺有意思的AR</td>
-</tr>
-<tr class="odd">
-<td><a href="https://github.com/benlodotcom/VRToolKit">VRToolKit</a></td>
-<td>一个虚拟现实的库</td>
-</tr>
-<tr class="even">
 <td><a href="https://github.com/Kickflip/kickflip-ios-sdk">kickflip-ios-sdk</a></td>
 <td>视频采集和直播</td>
 </tr>
@@ -1352,7 +1344,24 @@
 </tbody>
 </table>
 
-[图像显示/解析]
+## AR
+<table>
+<tr class="even">
+<td><a href="https://github.com/sonsongithub/CoreAR">CoreAR</a></td>
+<td>一个挺有意思的AR</td>
+</tr>
+<tr class="odd">
+<td><a href="https://github.com/benlodotcom/VRToolKit">VRToolKit</a></td>
+<td>一个虚拟现实的库</td>
+</tr>
+<tr class="even">
+<td><a href="https://github.com/promet/PRAugmentedReality">PRAugmentedReality</a></td>
+<td>一个基于地理位置的AR库</td>
+<td>★527</td>
+<td>2014年8月</td>
+</tr>
+</table>
+## 图像显示/解析
 
 <table>
 <tbody>
